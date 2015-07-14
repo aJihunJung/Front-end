@@ -1,0 +1,18 @@
+{
+  "name": "CommonProject",
+  "version": "0.0.0",
+  "authors": [
+    "flslg85 <flslg85@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
